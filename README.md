@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=SeongminCC&animation=fadeIn&fontColor=FFFFFF)
+</div>
 
-<!--
-**SeongminCC/SeongminCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+<div align="center">
+  
+  :smile:*welcome to my github profile!*
+  <br>
+  <br>
+  :mailbox_with_no_mail:**contact email**: smcho1201@gmail.com
+  <br>
+  :clubs:**Tistory**: https://smcho1201.tistory.com/
+</div>
 
-Here are some ideas to get you started:
+<br>
+<br>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://img.shields.io/badge/python-4479A1?style=for-the-badge&logo=python&logoColor=white">  
+  <img src="https://img.shields.io/badge/pytorch-007396?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/tensorflow-F80000?style=for-the-badge&logo=tensorflow&logoColor=white">
+</div>
+
+                  
