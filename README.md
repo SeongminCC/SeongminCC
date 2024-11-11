@@ -10,7 +10,7 @@
   :smile:*welcome to my github profile!*
   <br>
   <br>
-  :mailbox_with_no_mail:**contact email**: smcho1201@gmail.com
+  :mailbox_with_no_mail:**contact email**: smcho1201@naver.com
   <br>
   :clubs:**Tistory**: https://smcho1201.tistory.com/
 </div>
